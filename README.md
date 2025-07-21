@@ -1,5 +1,5 @@
 # 🎮 Rock-et
-A fun and interactive 2D shootinng game built using pygame.
+A fun and interactive 2D shooting game built using pygame.
 
 ![screenshot](spaceArt/home.png) <!-- Replace with your own screenshot path -->
 
